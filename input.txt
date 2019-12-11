@@ -1,0 +1,66 @@
+import sajib.h
+import taluk.h
+
+main:
+{
+	INTEGER a,b,c,d;
+	a=2;
+	b=3;
+	c=5;
+	IF(b>a)
+	{
+		a+b;
+	}
+	ELSE
+	{
+		a-b;
+	}
+
+	SWITCH ( a )
+	{
+	CASE 1 :
+		a + b; BREAK;
+	+
+	CASE 2 :
+		b + c; BREAK;
+	+
+	CASE 3 :
+		a + c; BREAK;
+	DEFAULT :
+		c + i; BREAK;
+	}
+
+	FOR (1<5)
+	{
+	a=b+c;
+	}
+	##This is Single line comment
+	!# This is multiple line comment
+	This is multiple line comment #!
+	Print(a);
+	LOG10(100);
+	LOG(16);
+	FACT(5);
+	2^4;
+	SIN(30);
+	GCD(5,10);
+	LCM(2,3);
+	PRIME(11);
+	PYRAMID(3);
+	PYRAMID(6);
+	WHILE(5){
+		a=b+c;
+	}
+	BIGMOD(2252,22344,1235);
+	POWER(2,3);
+	Func_add();
+	Func_temp();
+}
+INTEGER Func_add()
+{
+	Print(5);
+}
+FLOAT Func_temp()
+{
+	Print(10);
+}

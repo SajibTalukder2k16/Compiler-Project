@@ -1,0 +1,38 @@
+Declaration
+Value of the variable: 2	
+Value of the variable: 3	
+Value of the variable: 5	
+value of expression in IF: 5
+Value of the variable: 8	
+value of the for loop: 1 expression value: 8
+value of the for loop: 2 expression value: 8
+value of the for loop: 3 expression value: 8
+value of the for loop: 4 expression value: 8
+Print Expression 8
+Value of Log10(100) is 2.000000
+Value of Log(16) is 2.772589
+Value of Factorial(5) is 120
+Value of Sin(30) is 0.500001
+GCD of 5 and 10 is 5
+LCM of 2 and 3 is 6
+11 is a prime number
+  *
+ ***
+*****
+     *
+    ***
+   *****
+  *******
+ *********
+***********
+Value of the variable: 8	
+Value = 8 Inside while loop: iteration no. 1
+Value = 8 Inside while loop: iteration no. 2
+Value = 8 Inside while loop: iteration no. 3
+Value = 8 Inside while loop: iteration no. 4
+Value = 8 Inside while loop: iteration no. 5
+
+Bigmod of 2252 ^ 22344 MOD 1235 is = 391
+2 Power 3 = 8
+Print Expression 5
+Print Expression 10
